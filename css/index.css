@@ -161,7 +161,7 @@ h5 {
 
 nav {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     padding: 2%;
     flex-direction: row;
@@ -181,24 +181,20 @@ nav a {
 .service-container {
     display: flex;
     justify-content: space-evenly;
-    border: solid red 2px;
 }
 
 .test {
-    border: solid red 2px;
     padding: 1%;
 }
 
 .container1 {
     display: flex;
     justify-content: space-around;
-    border: solid blue 1px;
 }
 
 .items1 {
     padding: 12%;
     text-align: center;
-    border: solid red 1px;
 }
 
 .picture {
@@ -219,13 +215,11 @@ h1 {
 .container2 {
     display: flex;
     justify-content: center;
-    border: solid red 2px;
     margin-top: 1%;
 }
 
 .prepic-title {
     padding: 2%;
-    border: solid red 2px;
     margin-bottom: 1%;
 }
 
@@ -243,7 +237,6 @@ footer p {
 }
 
 .GS {
-    border: solid black 1px;
     padding: 2%;
 }
 
@@ -258,14 +251,12 @@ footer p {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        border: solid red 2px;
         margin-top: 1%;
     }
     .container1 {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        border: solid blue 1px;
     }
     .NavItem {
         order: 1;
