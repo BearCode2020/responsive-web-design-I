@@ -259,10 +259,11 @@ footer p {
         justify-content: space-between;
     }
     .NavItem {
-        order: 1;
+        order: -6;
     }
     .items {
         display: none;
+        border: 3px solid black;
     }
 }
 
